@@ -1,6 +1,5 @@
 # owned asset library documentation
 
---
 
 ## Page Breakdown
 	
@@ -39,7 +38,6 @@
 		export bkg imgs to use in slides 
 
 
---
 
 # Examples
 
@@ -47,7 +45,6 @@
 
 	banners
 
---
 
 # best practices
 
@@ -57,10 +54,8 @@
 
 	photopea for exporting to psd for local market banners
 
---
 
 # future plans 
 
 	combining with pigtails web library
-
 
