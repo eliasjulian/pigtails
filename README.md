@@ -7,7 +7,7 @@
 1. Create a [Sketch Cloud account](https://sketch.cloud/signup) 
 2. Choose `Add Library to Sketch` from the dropdown on the [Pigtails Owned Assets UI page.](https://sketch.cloud/s/0A5Ve) Gif below for how to do that.
 
-![Add Library to Sketch demo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Add Library to Sketch demo")
+![Add Library to Sketch demo](https://github.com/eliasjulian/pigtails-ownedassets/blob/master/addtolibrary.gif "Add Library to Sketch demo")
 
 3. That's it! You can either use the file as a library to pull assets from (method described above) OR download the [whole Sketch file](https://sketch.cloud/s/0A5Ve) and use it as a boilerplate for your project (recommended for fastest method to create banners and emails with linked product imagery)
 
