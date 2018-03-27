@@ -23,7 +23,6 @@
 	* Use [Photopea](https://www.photopea.com/), but it only works for the first 30 minutes of the hour, every hour. Unless we have to do this often then we'll start paying for an account
 
 
-#### future plans 
+#### Future Plans 
 * Combine with our larger wendy's design library to create a comprehensive repo
 * Evolve and iterate based on feedback
-
