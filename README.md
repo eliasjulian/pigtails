@@ -4,7 +4,7 @@
 
 #### Using the library
 
-1. Create a [Sketch Cloud account](https://sketch.cloud/signup) 
+1. Create a <a href="https://sketch.cloud/signup" target="_blank">Sketch Cloud account</a>
 2. Choose `Add Library to Sketch` from the dropdown on the [Pigtails Owned Assets UI page.](https://sketch.cloud/s/0A5Ve) Gif below for how to do that.
 
 ![Add Library to Sketch demo](https://github.com/eliasjulian/pigtails-ownedassets/blob/master/addtolibrary.gif "Add Library to Sketch demo")
